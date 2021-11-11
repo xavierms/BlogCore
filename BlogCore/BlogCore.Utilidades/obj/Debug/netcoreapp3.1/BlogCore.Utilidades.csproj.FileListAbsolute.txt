@@ -1,0 +1,9 @@
+C:\Users\xavie\OneDrive\Desktop\BlogCore\BlogCore\BlogCore.Utilidades\bin\Debug\netcoreapp3.1\BlogCore.Utilidades.deps.json
+C:\Users\xavie\OneDrive\Desktop\BlogCore\BlogCore\BlogCore.Utilidades\bin\Debug\netcoreapp3.1\BlogCore.Utilidades.dll
+C:\Users\xavie\OneDrive\Desktop\BlogCore\BlogCore\BlogCore.Utilidades\bin\Debug\netcoreapp3.1\BlogCore.Utilidades.pdb
+C:\Users\xavie\OneDrive\Desktop\BlogCore\BlogCore\BlogCore.Utilidades\obj\Debug\netcoreapp3.1\BlogCore.Utilidades.csprojAssemblyReference.cache
+C:\Users\xavie\OneDrive\Desktop\BlogCore\BlogCore\BlogCore.Utilidades\obj\Debug\netcoreapp3.1\BlogCore.Utilidades.AssemblyInfoInputs.cache
+C:\Users\xavie\OneDrive\Desktop\BlogCore\BlogCore\BlogCore.Utilidades\obj\Debug\netcoreapp3.1\BlogCore.Utilidades.AssemblyInfo.cs
+C:\Users\xavie\OneDrive\Desktop\BlogCore\BlogCore\BlogCore.Utilidades\obj\Debug\netcoreapp3.1\BlogCore.Utilidades.csproj.CoreCompileInputs.cache
+C:\Users\xavie\OneDrive\Desktop\BlogCore\BlogCore\BlogCore.Utilidades\obj\Debug\netcoreapp3.1\BlogCore.Utilidades.dll
+C:\Users\xavie\OneDrive\Desktop\BlogCore\BlogCore\BlogCore.Utilidades\obj\Debug\netcoreapp3.1\BlogCore.Utilidades.pdb
